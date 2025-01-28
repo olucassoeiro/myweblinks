@@ -8,7 +8,7 @@ function toggleMode() {
         img.setAttribute("alt", "Foto do perfil de Lucas Soeiro usando um óculos.")
 
     } else {
-        img.setAttribute("src", "../src/images/profile-black.png")
+        img.setAttribute("src", "./src/images/profile-black.png")
         img.setAttribute("alt", "Foto do perfil de Lucas Soeiro sorrindo.")
     }
 }
